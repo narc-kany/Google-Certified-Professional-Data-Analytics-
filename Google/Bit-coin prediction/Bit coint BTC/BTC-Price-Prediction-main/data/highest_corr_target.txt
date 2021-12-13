@@ -1,0 +1,3 @@
+close  close_nextday    0.986686
+dtype: float64
+print(c2)print('Highest Correlated Variable:', c2)print(c2)
